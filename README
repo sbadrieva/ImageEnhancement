@@ -1,0 +1,1 @@
+This enhancement class includes implementation of four different image enhancement techniques. The enhancement techniques implemented include negative of an image, log transform of an image, gamma correction of an image, and contrast stretching of an image. 
